@@ -30,3 +30,16 @@ pip install flask
 ```
 flask run
 ```
+**interacting with HTML**
+- Naming conventions are essential
+- we need create templates folder in our dir
+- flask looks for templates folder and anything inside the folder
+- we will create index.html inside our templates folder
+
+**Task**
+- create a base.html file in templates folder
+- copy index.html to base.html
+- google how to extend code from base.html to index.html
+- Create text boxes for login form
+- search and find out syntax to write a for loop in index.html
+
